@@ -55,4 +55,4 @@ You can also find me on GitHub at: BBrantly90
 
 ## Deployed Application 🚀
 
-This application was deplopyed at: 
+This application was deplopyed at: https://simple-note-taker-pgaq.onrender.com
